@@ -13,7 +13,7 @@ namespace ValidadorDocumentos
     {
         static void Main(string[] args)
         {
-            string CPF1 = "50042267846";
+            string CPF1 = "19561948001";
             string CPF2 = "98745366797";
             string CPF3 = "22222222222";
 
